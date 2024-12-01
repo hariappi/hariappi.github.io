@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Harinadh Appidi
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Hari
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Harinadh
+last_name: Appidi
 
 # Status emoji
 status:
@@ -31,72 +31,57 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:appidi.harinadh@outlook.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://twitter.com/realUser898
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/hariappi
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/harinadh-appidi/
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Distributed Systems
+  - Systems Programming
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: M.S in Data Science and Analytics
+    institution: University of Oklahoma
+    date_start: 2021-01-20
+    date_end: 2022-08-04
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      GPA: 4.0/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Bachelors in Technology
+    institution: Jawaharlal Nehru Technological University, Hyderabad
+    date_start: 2013-10-01
+    date_end: 2017-12-31
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.8/4.0
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
+  - position: Software Development Engineer
+    company_name: AWS
+    company_url: 'https://aws.amazon.com/'
+    company_logo: ![alt text](image.png)
+    date_start: 2022-10-22
     date_end: ''
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+  - position: Graduate Research Assistant
+    company_name: University of Oklahoma
     company_url: ''
     company_logo: ''
     date_start: 2016-01-01
@@ -116,7 +101,7 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Distributed Systems
         description: ''
         percent: 100
         icon: chart-bar
