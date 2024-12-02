@@ -37,7 +37,7 @@ header:
     logo:
       text: "Harinadh Appidi"
 
-Site footer
+# Site footer
 footer:
   copyright:
     notice: '© {year} Me. This work is licensed under {license}'
