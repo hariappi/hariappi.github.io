@@ -88,20 +88,20 @@ work:
     date_end: 2022-07-31
     summary: |
       - Performed data analysis on health data in R and built dashboards.
-      - Implement statistical models to identify cancer probablity of patients based on direct and indirect features extracted from health dataset
+      - Implement statistical models to identify cancer probablity of patients based on direct and indirect features extracted from health dataset.
 
   - position: Machine Learning Engineer
-      company_name: Infosys Limited
-      company_url: https://www.infosys.com/
-      company_logo: ''
-      date_start: 2018-06-22
-      date_end: 2020-12-24
-      summary: |
-        - Worked on Infosys Enterprise Cognitive platform - [IECP](https://www.infosys.com/services/incubating-emerging-technologies/offerings/     enterprise-cognitive-platform.html) building NLP based solutions to extract insights from invoices.
-        - Built text extraction modules to extract data from different types of documents like
-          selectable pdf, scanned pdf, M365 documents(.doc, .docx, .xls...) and images.
-        - Trained and Deployed text classification and summarization models to fetch relevant
-          insights from extracted content.
+    company_name: Infosys Limited
+    company_url: https://www.infosys.com/
+    company_logo: ''
+    date_start: 2018-06-22
+    date_end: 2020-12-24
+    summary: |
+      - Worked on Infosys Enterprise Cognitive platform - [IECP](https://www.infosys.com/services/incubating-emerging-technologies/offerings/     enterprise-cognitive-platform.html) building NLP based solutions to extract insights from invoices.
+      - Built text extraction modules to extract data from different types of documents like
+        selectable pdf, scanned pdf, M365 documents(.doc, .docx, .xls...) and images.
+      - Trained and Deployed text classification and summarization models to fetch relevant
+        insights from extracted content.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
