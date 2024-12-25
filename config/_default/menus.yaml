@@ -5,5 +5,5 @@
 
 main:
   - name: Bio
-    url: /
+    url: /authors/admin
     weight: 10

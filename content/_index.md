@@ -13,10 +13,13 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      text: ""
+      text: |
+        ## About Me
+
+        Hi, I'm Hari, software engineer at AWS and currently building generative AI tools for enterprise customers.
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
+        text: Download Resume
         url: uploads/resume.pdf
     design:
       css_class: dark
