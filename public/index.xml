@@ -1,1 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Harinadh Appidi</title><link>https://example.com/</link><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml"/><description>Harinadh Appidi</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate><image><url>https://example.com/media/icon_hu7729264130191091259.png</url><title>Harinadh Appidi</title><link>https://example.com/</link></image></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Harinadh Appidi</title><link>https://example.com/</link><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml"/><description>Harinadh Appidi</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate><image><url>https://example.com/media/icon_hu7729264130191091259.png</url><title>Harinadh Appidi</title><link>https://example.com/</link></image><item><title>Books I've Read</title><link>https://example.com/books/</link><pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate><guid>https://example.com/books/</guid><description>&lt;h2 id="books-ive-read">Books I&amp;rsquo;ve Read&lt;/h2>
+&lt;p>Here are some of the books I&amp;rsquo;ve read recently:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>&amp;ldquo;The Pragmatic Programmer&amp;rdquo;&lt;/strong> by Andrew Hunt and David Thomas&lt;/li>
+&lt;li>&lt;strong>&amp;ldquo;Clean Code&amp;rdquo;&lt;/strong> by Robert C. Martin&lt;/li>
+&lt;li>&lt;strong>&amp;ldquo;Deep Work&amp;rdquo;&lt;/strong> by Cal Newport&lt;/li>
+&lt;li>&lt;strong>&amp;ldquo;The Lean Startup&amp;rdquo;&lt;/strong> by Eric Ries&lt;/li>
+&lt;/ul>
+&lt;p>Feel free to add more books to this list!&lt;/p></description></item></channel></rss>
