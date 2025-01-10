@@ -11,8 +11,7 @@ design:
 sections:
   - block: resume-biography-3
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
+      # Removed the username field to avoid referencing a non-existent author page
       text: |
         ## About Me
 
