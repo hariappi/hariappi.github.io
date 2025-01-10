@@ -1,0 +1,10 @@
+<div class="books-list">
+  <h2>{{ .content.title }}</h2>
+  <ul>
+    {{ range .content.books }}
+    <li>
+      <strong>{{ .title }}</strong> by {{ .author }}
+    </li>
+    {{ end }}
+  </ul>
+</div> 
