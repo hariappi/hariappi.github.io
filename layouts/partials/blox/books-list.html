@@ -1,10 +1,21 @@
 <div class="books-list">
-  <h2>{{ .content.title }}</h2>
-  <ul>
+  <h2 onclick="toggleBooksList()" style="cursor: pointer;">{{ .content.title }}</h2>
+  <ul id="books-list" style="display: none;">
     {{ range .content.books }}
     <li>
       <strong>{{ .title }}</strong> by {{ .author }}
     </li>
     {{ end }}
   </ul>
-</div> 
+</div>
+
+<script>
+  function toggleBooksList() {
+    var list = document.getElementById('books-list');
+    if (list.style.display === 'none') {
+      list.style.display = 'block';
+    } else {
+      list.style.display = 'none';
+    }
+  }
+</script> 
