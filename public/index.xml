@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Harinadh Appidi</title>
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <description>Harinadh Appidi</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Harinadh Appidi</title>
+      <link>http://localhost:1313/</link>
+    </image>
+    
+    <item>
+      <title>Books</title>
+      <link>http://localhost:1313/books/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/</guid>
+      <description>&lt;h2 id=&#34;read&#34;&gt;Read&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&amp;ldquo;The Amazon Way: Amazon&amp;rsquo;s 14 Leadership Principles&amp;rdquo;&lt;/strong&gt; by John Rossman (&lt;a href=&#34;https://www.amazon.com/Amazon-Way-Leadership-Principles-Innovation/dp/1638451028/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amazon&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&amp;ldquo;The Way to Wealth&amp;rdquo;&lt;/strong&gt; by Benjamin Franklin (&lt;a href=&#34;https://www.amazon.com/Way-Wealth-Benjamin-Franklin/dp/1508518424/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amazon&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&amp;ldquo;Surely You&amp;rsquo;re Joking, Mr. Feynman!&amp;rdquo;&lt;/strong&gt; by Richard P. Feynman (&lt;a href=&#34;https://www.amazon.com/Surely-Youre-Joking-Mr-Feynman/dp/0393355624/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amazon&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&amp;ldquo;You Become What You Think&amp;rdquo;&lt;/strong&gt; by Siva Sankar Reddy (&lt;a href=&#34;https://www.amazon.com/You-Become-What-Think-Relationships/dp/9355665261/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amazon&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&amp;ldquo;The Pragmatic Programmer&amp;rdquo;&lt;/strong&gt; by Andrew Hunt and David Thomas (&lt;a href=&#34;https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amazon&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&amp;ldquo;Always Day One&amp;rdquo;&lt;/strong&gt; by Alex Kantrowitz (&lt;a href=&#34;https://www.amazon.com/Always-Day-One-Tech-Titans/dp/0593083482/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amazon&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&amp;ldquo;Poor Charlie&amp;rsquo;s Almanack&amp;rdquo;&lt;/strong&gt; by Charles T. Munger (&lt;a href=&#34;https://www.amazon.com/Poor-Charlies-Almanack-Essential-Wisdom/dp/1953953247/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amazon&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&amp;ldquo;Applied Minds: How Engineers Think&amp;rdquo;&lt;/strong&gt; by Guru Madhavan (&lt;a href=&#34;https://www.amazon.com/Applied-Minds-How-Engineers-Think/dp/0393239829/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amazon&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&amp;ldquo;Atomic Habits&amp;rdquo;&lt;/strong&gt; by James Clear (&lt;a href=&#34;https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amazon&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&amp;ldquo;Software Engineering at Google&amp;rdquo;&lt;/strong&gt; by Titus Winters, Tom Manshreck, and Hyrum Wright (&lt;a href=&#34;https://www.amazon.com/Software-Engineering-Google-Lessons-Programming/dp/1492082791/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amazon&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&amp;ldquo;Zero to One&amp;rdquo;&lt;/strong&gt; by Peter Thiel (&lt;a href=&#34;https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amazon&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&amp;ldquo;The Almanack of Naval Ravikant&amp;rdquo;&lt;/strong&gt; by Eric Jorgenson (&lt;a href=&#34;https://www.amazon.com/Almanack-Naval-Ravikant-Wealth-Happiness/dp/1544514212/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amazon&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&amp;ldquo;The Passionate Programmer&amp;rdquo;&lt;/strong&gt; by Chad Fowler (&lt;a href=&#34;https://www.amazon.com/Passionate-Programmer-Remarkable-Development-Pragmatic/dp/1934356344/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amazon&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;next-reads&#34;&gt;Next Reads&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&amp;ldquo;The Hitchhiker&amp;rsquo;s Guide to Galaxy: The Illustrated Edition&amp;rdquo;&lt;/strong&gt; by Douglas Adams (&lt;a href=&#34;https://www.amazon.com/Hitchhikers-Guide-Galaxy-Illustrated/dp/0593359445/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amazon&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&amp;ldquo;The Beginning of Infinity&amp;rdquo;&lt;/strong&gt; by David Deutsch (&lt;a href=&#34;https://www.amazon.com/Beginning-Infinity-Explanations-Transform-World/dp/0143121359/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amazon&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&amp;ldquo;Rationality&amp;rdquo;&lt;/strong&gt; by Steven Pinker (&lt;a href=&#34;https://www.amazon.com/Rationality-What-Seems-Scarce-Matters/dp/0525561994/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amazon&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&amp;ldquo;The Organized Mind&amp;rdquo;&lt;/strong&gt; by Daniel J. Levitin (&lt;a href=&#34;https://www.amazon.com/Organized-Mind-Thinking-Straight-Information/dp/0147516315/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amazon&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&amp;ldquo;The Selfish Gene&amp;rdquo;&lt;/strong&gt; by Richard Dawkins (&lt;a href=&#34;https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Science/dp/0198788606/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amazon&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&amp;ldquo;Extreme Ownership&amp;rdquo;&lt;/strong&gt; by Jocko Willink and Leif Babin (&lt;a href=&#34;https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs/dp/1250067057/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amazon&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&amp;ldquo;Benjamin Franklin: An American Life&amp;rdquo;&lt;/strong&gt; by Walter Isaacson (&lt;a href=&#34;https://www.amazon.com/Benjamin-Franklin-American-Walter-Isaacson/dp/074325807X/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amazon&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&amp;ldquo;Pale Blue Dot&amp;rdquo;&lt;/strong&gt; by Carl Sagan (&lt;a href=&#34;https://www.amazon.com/Pale-Blue-Dot-Vision-Future/dp/0345376595/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amazon&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&amp;ldquo;The Art of War&amp;rdquo;&lt;/strong&gt; by Sun Tzu (&lt;a href=&#34;https://www.amazon.com/Art-War-Sun-Tzu/dp/1599869772/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amazon&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&amp;ldquo;Only the Paranoid Survive&amp;rdquo;&lt;/strong&gt; by Andrew S. Grove (&lt;a href=&#34;https://www.amazon.com/Only-Paranoid-Survive-Exploit-Challenge/dp/0385483821/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amazon&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&amp;ldquo;Stages to Saturn&amp;rdquo;&lt;/strong&gt; by Roger E. Bilstein (&lt;a href=&#34;https://www.amazon.com/Stages-Saturn-Technological-History-Spacecraft/dp/0813061598/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amazon&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&amp;ldquo;Contact&amp;rdquo;&lt;/strong&gt; by Carl Sagan (&lt;a href=&#34;https://www.amazon.com/Contact-Novel-Carl-Sagan/dp/1501197983/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amazon&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&amp;ldquo;Cosmos&amp;rdquo;&lt;/strong&gt; by Carl Sagan (&lt;a href=&#34;https://www.amazon.com/Cosmos-Carl-Sagan/dp/0345539435/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amazon&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&amp;ldquo;The Rise and Fall of American Growth&amp;rdquo;&lt;/strong&gt; by Robert J. Gordon (&lt;a href=&#34;https://www.amazon.com/Rise-Fall-American-Growth-Princeton/dp/0691175802/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amazon&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&amp;ldquo;Principles for Dealing with Changing World Order&amp;rdquo;&lt;/strong&gt; by Ray Dalio (&lt;a href=&#34;https://www.amazon.com/Changing-World-Order-Nations-Succeed/dp/1982160276/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amazon&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&amp;ldquo;The Little Book of Valuation&amp;rdquo;&lt;/strong&gt; by Aswath Damodaran (&lt;a href=&#34;https://www.amazon.com/Little-Book-Valuation-Company-Profit/dp/1118004779/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amazon&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&amp;ldquo;Skin in the Game&amp;rdquo;&lt;/strong&gt; by Nassim Nicholas Taleb (&lt;a href=&#34;https://www.amazon.com/Skin-Game-Hidden-Asymmetries-Daily/dp/042528462X/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amazon&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
